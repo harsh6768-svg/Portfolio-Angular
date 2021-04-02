@@ -137,5 +137,8 @@
       }
     }
   },
-  "defaultProject": "portfolioang"
+  "defaultProject": "portfolioang",
+  "cli": {
+    "analytics": "6c7be7e3-33e1-4a4c-a8a9-1f654fceb011"
+  }
 }
